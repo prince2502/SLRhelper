@@ -1,4 +1,4 @@
-# SLRhelper
+# SLR helper
 Generate First-Follow sets, LR(0) automaton, SLR Table for a given LR1 grammar
 
 The grammar has to be in following format
